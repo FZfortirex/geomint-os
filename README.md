@@ -13,6 +13,11 @@ Remastering Linux Mint 22.3 XFCE (64-bit) menjadi GeoMint OS memakai Cubic di Vi
 | assets/boot.jpg | Background menu boot |
 | SHA256SUMS.txt | Checksum ISO hasil remastering |
 
+## ISO
+
+- Unduh: https://drive.google.com/drive/folders/1nvPQKWJEysQP17OJTJjYh7qmBgcA7giq?usp=sharing
+- SHA256: 670e270c6af83af740c625dc114fd7336d6663b47e804c2c3137471682e78595
+  
 ## Cara pakai
 
 1. Buat proyek di Cubic dengan ISO dasar linuxmint-22.3-xfce-64bit.iso.
