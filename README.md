@@ -27,7 +27,7 @@ Remastering Linux Mint 22.3 XFCE (64-bit) menjadi GeoMint OS memakai Cubic di Vi
 4. Kembali ke Cubic, klik Next sampai Generate.
 5. Buat checksum:
 
-        sha256sum nama-iso.iso > SHA256SUMS.txt
+        sha256sum GeoMint-OS.iso > SHA256SUMS.txt
 
 ## Berkas sistem yang diubah
 
